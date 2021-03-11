@@ -6,13 +6,13 @@
             "value": "ARM-CICD-VM"
         },
         "disks_simple_vm_OsDisk_1_7ceac2bc06e14eb383f12ca1da62d964_externalid": {
-            "value": null
+            "value": "disks_simple_vm_OsDisk_1_7ceac2bc06e14eb383f12ca1da62d964"
         },
         "disks_simple_vm_disk2_78c5cc8d2a2f4aa69a3974d4307f6f82_externalid": {
-            "value": null
+            "value": "disks_simple_vm_disk2_78c5cc8d2a2f4aa69a3974d4307f6f82"
         },
         "networkInterfaces_myVMNic_externalid": {
-            "value": null
+            "value": "myVMNic123"
         }
     }
 }
