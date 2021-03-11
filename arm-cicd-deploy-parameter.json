@@ -1,15 +1,18 @@
 {
-  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
-  "contentVersion": "1.0.0.0",
-  "parameters": {
-    "adminUsername": {
-      "value": "GEN-UNIQUE"
-    },
-    "adminPassword": {
-      "value": "GEN-PASSWORD"
-    },
-    "dnsLabelPrefix": {
-      "value": "Shree-UNIQUE"
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_simple_vm_name": {
+            "value": null
+        },
+        "disks_simple_vm_OsDisk_1_7ceac2bc06e14eb383f12ca1da62d964_externalid": {
+            "value": null
+        },
+        "disks_simple_vm_disk2_78c5cc8d2a2f4aa69a3974d4307f6f82_externalid": {
+            "value": null
+        },
+        "networkInterfaces_myVMNic_externalid": {
+            "value": null
+        }
     }
-  }
 }
