@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualMachines_simple_vm_name": {
-            "value": null
+            "value": "ARM-CICD-VM"
         },
         "disks_simple_vm_OsDisk_1_7ceac2bc06e14eb383f12ca1da62d964_externalid": {
             "value": null
