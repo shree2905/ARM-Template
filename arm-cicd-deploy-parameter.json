@@ -12,7 +12,7 @@
             "value": "disks_simple_vm_disk2_78c5cc8d2a2f4aa69a3974d4307f6f82"
         },
         "networkInterfaces_myVMNic_externalid": {
-            "value": "myVMNic123"
+            "value": "/subscriptions/00cc2c5a-42bf-4fa9-9904-64523c39d6a2/resourceGroups/sriv_rg/providers/Microsoft.Network/networkInterfaces/myVMNic"
         }
     }
 }
